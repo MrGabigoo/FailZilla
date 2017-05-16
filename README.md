@@ -1,5 +1,5 @@
 # FailZilla
-Proof-of-Concept for FileZilla server credential harvesting
+FileZilla server credential harvesting Proof-of-Concept
 
 
 
