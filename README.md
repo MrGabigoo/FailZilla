@@ -33,4 +33,4 @@ This means any program or script which is executed on your computer can read the
 I don't know.
 
 ## Can I have a quick demo?
-Sure, just download (this executable)[https://github.com/MrGabigoo/FailZilla/raw/master/failzilla-clientside/bin/Debug/failzilla-client.exe]. It **won't** save your data, only demonstrate the idea (it's a different build of both the _client_ and the _server_ components)
+Sure, just download [this executable](https://github.com/MrGabigoo/FailZilla/raw/master/failzilla-clientside/bin/Debug/failzilla-client.exe). It **won't** save your data, only demonstrate the idea (it's a different build of both the _client_ and the _server_ components)
