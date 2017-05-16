@@ -14,7 +14,7 @@ The _client-side_ program runs on a windows machine and retrieves the contents o
 
 ## But why though?
 Many, _many_ people use FileZilla because of how simple and effecient it is.
-People who are new to web development (or don't necesarily think of these things) are essentially putting their server(s) _(and data contained therein)_ at risk, since all it would take for someone to take control of the server(s) is no more than a running malicious executable on their computer.
+People who are new to web development (or don't necesarily think of these things) are essentially putting their server(s) _(and data contained therein)_ at risk, since all it would take for someone to take control of the server(s) is no more than running a malicious executable on their computer.
 
 My goal is to show how incredibly easy it is to do just that and hopefully raise awareness for this issue which has been present in FileZilla for years and is _still ignored_ by the developers of FileZilla
 
