@@ -1,5 +1,5 @@
 # FailZilla
-PoC for FileZilla server credential harvesting
+Proof-of-Concept for FileZilla server credential harvesting
 
 
 
